@@ -10,6 +10,11 @@
  ➢	University Administrator has the functionality of registering new colleges and courses. College Administrator has the rights of creating department, allocating courses to departments, creating faculties, students and allocating subjects to faculties, etc
  ➢	User of this may be faculty or students. Faculty has the facility of entering the marks and attendance of the students. 
  
+Tech Stack Used:-
+Front End- HTML,CSS,Bootstrap
+Backend- PHP,Ajax
+Database- ApacheSQL
+
 Implemented Functions:
 •	Login/Create Account
 •	Add/Edit/Delete User
