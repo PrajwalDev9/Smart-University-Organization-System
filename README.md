@@ -11,7 +11,6 @@
  ➢	User of this may be faculty or students. Faculty has the facility of entering the marks and attendance of the students. <br />
  <br />
 Tech Stack Used:<br />
-
 Front End- HTML,CSS,Bootstrap<br />
 Backend- PHP,Ajax<br />
 Database- ApacheSQL<br />
@@ -28,6 +27,9 @@ Implemented Functions:<br />
 •	Add/Edit/Delete Fee Structure<br />
 •	Database Backup<br />
 •	Download CSV<br />
+
+![12](https://github.com/PrajwalDev9/Smart-University-Organization-System/assets/73089657/c2d0c576-a4ce-46cc-b32a-85f49f42aded)
+![11](https://github.com/PrajwalDev9/Smart-University-Organization-System/assets/73089657/0deb0bff-fec8-4709-9adc-5f92428ce806)
 
 
 
